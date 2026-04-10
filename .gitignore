@@ -1,0 +1,6 @@
+venv/
+
+# outputs
+relevantes.txt
+resultados.csv
+chunks/
